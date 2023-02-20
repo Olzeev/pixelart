@@ -1,2 +1,6 @@
-# pixelart
-Pixel art generator using Python and TKinter
+# Pixel art generator
+Made using Python and TKinter
+
+### Usage
+
+
